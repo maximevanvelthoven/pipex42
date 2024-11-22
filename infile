@@ -1,0 +1,20 @@
+total 200
+drwxr-xr-x  19 mvan-vel  2024_s19    646 Jul 24 17:42 .
+drwxr-xr-x  34 mvan-vel  2024_s19   1156 Jul 23 13:32 ..
+drwxr-xr-x  12 mvan-vel  2024_s19    408 Jul 18 14:46 .git
+-rw-r--r--   1 mvan-vel  2024_s19      0 Jul 18 14:20 .macos
+-rw-r--r--   1 mvan-vel  2024_s19   1208 Jul 18 14:22 Makefile
+-rw-r--r--   1 mvan-vel  2024_s19      0 Jul 24 17:43 infile
+-rw-r--r--   1 mvan-vel  2024_s19   3107 Jul 18 14:46 main.c
+-rw-r--r--   1 mvan-vel  2024_s19   3196 Jul 24 17:42 main.o
+-rw-r--r--   1 mvan-vel  2024_s19      0 Jul 18 14:36 outfile
+-rwxr-xr-x   1 mvan-vel  2024_s19  50832 Jul 24 17:42 pipex
+-rw-r--r--   1 mvan-vel  2024_s19   1832 Jul 22 18:11 pipex.h
+-rw-r--r--   1 mvan-vel  2024_s19   2143 Jul 15 14:29 split.c
+-rw-r--r--   1 mvan-vel  2024_s19   2316 Jul 24 17:42 split.o
+-rw-r--r--   1 mvan-vel  2024_s19   2037 Jul 18 14:01 srcs.c
+-rw-r--r--   1 mvan-vel  2024_s19   2240 Jul 24 17:42 srcs.o
+-rw-r--r--   1 mvan-vel  2024_s19   1417 Jul 18 13:41 srcs2.c
+-rw-r--r--   1 mvan-vel  2024_s19   1128 Jul 24 17:42 srcs2.o
+-rw-r--r--   1 mvan-vel  2024_s19   2141 Jul 18 14:36 utils.c
+-rw-r--r--   1 mvan-vel  2024_s19   2284 Jul 24 17:42 utils.o

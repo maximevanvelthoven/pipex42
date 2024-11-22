@@ -1,0 +1,10 @@
+Makefile
+infile
+main.c
+outfile
+outifile
+pipex.h
+split.c
+srcs.c
+srcs2.c
+utils.c
